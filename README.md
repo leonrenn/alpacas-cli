@@ -140,7 +140,7 @@ The best part about this project is that it is designed to be easily extensible.
 In the following list you will find some goals, that I think would be cool to achieve for this tool. I am happy to discuss about this prioritize other ideas in the development and integration process:
 - [ ] Build a dev community that likes the idea of the project and is eager to spend some more time on the development 
 - [ ] Build a foundation of common analyses from the quant world
-- [ ] 
+- [ ] Integrate dedicated portfolio optimazation packages, like [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt/tree/master)
 
 ## Support
 
