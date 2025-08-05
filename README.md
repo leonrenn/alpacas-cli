@@ -1,6 +1,6 @@
 # alpacas-cli
 
-Command Line Interface for the Alpaca API written in Python designed for managing portfolios via simple commands, running algorithmic analyses and building on top of it.
+Command Line Interface for the [Alpaca](https://alpaca.markets/) API written in Python designed for managing portfolios via simple commands, running algorithmic analyses and building on top of it.
 
 ## 🔧 Setting Up the Development Environment
 
